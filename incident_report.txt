@@ -1,0 +1,6 @@
+SOC INCIDENT REPORT
+===================
+Date & Time       : 2026-06-27 19:36:25.072473
+Log File Analyzed : logs/auth.log
+Failed Attempts  : 5
+Incident Status  : INCIDENT DETECTED
