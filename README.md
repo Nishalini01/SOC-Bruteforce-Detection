@@ -66,5 +66,5 @@ SIEM tool integration (Splunk / ELK)
 Nishalini M
 BE CSE (Cyber Security)
 Aspiring Cyber Security Analyst
-#CyberSecurity #SOC #Python #LogAnalysis #BlueTeam #FresherProject
+#CyberSecurity #SOC #Python #LogAnalysis #BlueTeam #FresherProjects
 
